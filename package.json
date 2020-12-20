@@ -1,6 +1,6 @@
 {
   "name": "image-switcher",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Switch image on any event",
   "main": "image-switcher.js",
   "scripts": {
