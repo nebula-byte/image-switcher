@@ -1,7 +1,7 @@
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 # Image Switcher
-(https://nebulabyte.com/wp-content/uploads/2020/12/image-switcher.gif)
+![Image Switcher Screenshot](https://nebulabyte.com/wp-content/uploads/2020/12/image-switcher.gif)
 
 Add a image-switcher to toggle with a action.
 
