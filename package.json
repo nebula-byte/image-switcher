@@ -1,0 +1,28 @@
+{
+  "name": "image-switcher",
+  "version": "1.0.0",
+  "description": "Switch image on any event",
+  "main": "image-switcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nebula-byte/image-switcher.git"
+  },
+  "keywords": [
+    "image-switcher",
+    "node",
+    "npm",
+    "js"
+  ],
+  "author": {
+    "name": "Nebula Byte",
+    "email": "tech.nebulabyte@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nebula-byte/image-switcher/issues"
+  },
+  "homepage": "https://github.com/nebula-byte/image-switcher#readme"
+}
