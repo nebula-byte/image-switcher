@@ -28,3 +28,12 @@ Add a image-switcher to toggle with a action.
 ```html
 <img class="image-switcher" src="images/1232.jpg" data-switch-src="images/1266.jpg">
 ```
+
+3. Add animation on images from [animate.style](https://animate.style/):
+
+```html
+<a href="#" class="image-switch-animation" id="image-switcher-action">
+    Switch image
+</a>
+<img class="image-switcher" src="images/1232.jpg" data-switch-src="images/1266.jpg" data-animation="bounce">
+```
