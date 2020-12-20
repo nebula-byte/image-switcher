@@ -3,7 +3,7 @@
 # Image Switcher
 ![Image Switcher Screenshot](https://github.com/nebula-byte/nebula-byte-content/blob/main/image-switcher.gif)
 
-Add a image-switcher to toggle with a action.
+Add image-switcher to toggle on action.
 
 - No localStorage, only DOM
 
