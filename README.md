@@ -7,6 +7,12 @@ Add image-switcher to toggle on action.
 
 - No localStorage, only DOM
 
+## Installation
+
+```html
+npm i image-switcher
+```
+
 ## Usage
 
 1. Load `image-switcher.min.js` at the foot of your page:
